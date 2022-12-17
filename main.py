@@ -1,4 +1,4 @@
-from ast import While
+
 import time
 from plyer import notification
 
